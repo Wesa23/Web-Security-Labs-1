@@ -6,7 +6,8 @@
 - SQL Injection Vulnerability Allowing Login Bypass ✅
 - SQL Injection Attack, Querying the Database Type and Version on Oracle ✅
 - SQL Injection Attack, Querying the Database Type and Version on MySQL and Microsoft SQL Server ✅
+- SQL injection attack, listing the database contents on non-Oracle databases✅
 
 ## Progress
 
-Completed: 4 SQL Injection Labs
+Completed: 5 SQL Injection Labs
