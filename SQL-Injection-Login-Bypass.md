@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/53e2da51-557e-4f84-8f6d-23858213e872" />
 # SQL Injection Vulnerability Allowing Login Bypass
 
 ## Vulnerability
