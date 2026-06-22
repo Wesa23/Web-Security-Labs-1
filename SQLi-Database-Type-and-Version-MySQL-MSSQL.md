@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/010b55fb-4712-4d3d-9e92-9aeb64dd54d9" />
 # SQL Injection Attack, Querying the Database Type and Version on MySQL and Microsoft SQL Server
 
 ## Vulnerability
