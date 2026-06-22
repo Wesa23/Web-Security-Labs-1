@@ -1,3 +1,4 @@
+![Uploading Screenshot (4).png…]()
 # SQL Injection Attack, Querying the Database Type and Version on Oracle
 
 ## Vulnerability
