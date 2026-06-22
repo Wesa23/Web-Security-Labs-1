@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/4055ead7-3ead-4818-bb70-cc2c857f071b" />
 # SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
 
 ## Vulnerability
