@@ -1,4 +1,5 @@
-![Uploading Screenshot (4).png…]()
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/2439adec-689c-46f5-9f37-08a36558d991" />
+
 # SQL Injection Attack, Querying the Database Type and Version on Oracle
 
 ## Vulnerability
